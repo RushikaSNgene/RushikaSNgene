@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RushikaSNgene
+- 👋 Hi, I’m @Rushika Patel, Scientist associated with SNGene Lab
 - 👀 I’m interested in AI-ML method deployment for diagnostic purpose
 - 🌱 I’m currently learning Tensorflow, Nextflow
 - 💞️ I’m looking to collaborate on GUI and molecular diagnostic workflow development
